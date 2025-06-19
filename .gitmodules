@@ -1,6 +1,4 @@
-[submodule "src/app/(studio)"]
-	path = src/app/(studio)
+[submodule "src/app/(studio2)"]
+	path = src/app/(studio2)
 	url = https://github.com/lookeswong/submodules-1.git
-[submodule "src/app/(adserve)"]
-	path = src/app/(adserve)
-	url = https://github.com/lookeswong/submodule-2.git
+	ignore = all
