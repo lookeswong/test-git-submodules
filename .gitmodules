@@ -2,7 +2,9 @@
 	path = src/app/(studio)
 	url = https://github.com/lookeswong/submodules-1.git
 	branch = main
+	ignore = all
 [submodule "src/app/(adserve)"]
 	path = src/app/(adserve)
 	url = https://github.com/lookeswong/submodule-2.git
 	branch = main
+	ignore = all
